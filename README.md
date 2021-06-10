@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working as Quality Assurance Analyst at Clemson University
+🌱 I’m currently learning Java
+😄 Pronouns: he/him
+
+
